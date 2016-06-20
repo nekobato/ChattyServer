@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/nekobato/ChattyServer#readme",
   "dependencies": {
+    "minimist": "^1.2.0",
     "openjtalk": "^0.1.4"
   }
 }
